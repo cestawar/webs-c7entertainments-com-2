@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cestawar.github.io/webs-c7entertainments-com-2/sitemap.xml
